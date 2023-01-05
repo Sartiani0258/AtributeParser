@@ -8,7 +8,8 @@
  * tag1.tag2~name
  * tag1~name
  * tag1~value
- * cislo 4 znamena 4 radky textu a 3 znamena 3 radky dotazu podle kterych budeme hledat promenne
+ * cislo 4 znamena 4 radky textu a 3 znamena 3 radky dotazu podle kterych budeme hledat promenne, napriklad tag1~value nam vrati "HelloWorld" a
+ * tag1~name informaci, ze se hledany vyraz podle dotazu nenasel.
  */
 #include <vector>
 #include <iostream>
